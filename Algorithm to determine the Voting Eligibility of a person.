@@ -1,0 +1,13 @@
+Algorithm to determine the Voting Eligibility of a person.
+
+Step 1 : Start
+
+Step 2 : Get the age of person in variable AGE.
+
+Step 3 : Check, AGE is greater than or equal to 18. 
+
+Step 3.1 : IF true, display the message “The Person is Eligible to Vote” 
+
+Step 3.2 : Otherwise, “The Person is Eligible to Vote”.
+
+Step 4: Stop.
